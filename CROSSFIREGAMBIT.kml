@@ -45,16 +45,6 @@
 			<styleUrl>#s_ylw-pushpin_hl0</styleUrl>
 		</Pair>
 	</StyleMap>
-	<StyleMap id="msn_ylw-pushpin">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#sn_ylw-pushpin</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#sh_ylw-pushpin</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="s_ylw-pushpin00">
 		<IconStyle>
 			<scale>1.1</scale>
@@ -101,30 +91,6 @@
 		</IconStyle>
 		<LineStyle>
 			<color>ffff0b1f</color>
-		</LineStyle>
-	</Style>
-	<Style id="sh_ylw-pushpin">
-		<IconStyle>
-			<scale>1.3</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
-		</LineStyle>
-	</Style>
-	<Style id="sn_ylw-pushpin">
-		<IconStyle>
-			<scale>1.1</scale>
-			<Icon>
-				<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
-			</Icon>
-			<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
-		</IconStyle>
-		<LineStyle>
-			<color>ff0000ff</color>
 		</LineStyle>
 	</Style>
 	<Folder>
@@ -186,17 +152,6 @@
 				<tessellate>1</tessellate>
 				<coordinates>
 					-81.02411592352483,33.97527675420081,0 -81.14846332523197,33.97527800458163,0 
-				</coordinates>
-			</LineString>
-		</Placemark>
-		<Placemark>
-			<name>page 509</name>
-			<visibility>0</visibility>
-			<styleUrl>#msn_ylw-pushpin</styleUrl>
-			<LineString>
-				<tessellate>1</tessellate>
-				<coordinates>
-					-82.41617430757454,33.55203571068334,0 -82.3022352656432,33.55203494297998,0 -82.2246770812652,33.55203551828256,0 -82.15615137462154,33.55203474340593,0 -82.12317508035292,33.55203748329621,0 -82.09784865096846,33.55203636382424,0 -82.08053152446014,33.55203707140011,0 -82.06317763184815,33.55203707464294,0 -82.04846648708381,33.55203609384222,0 -82.03615986855796,33.5520354110865,0 -81.99121233960344,33.55203523753476,0 -81.94826626537007,33.55203519765897,0 -81.85608492189016,33.55203503989404,0 -81.82089027577697,33.55203718152967,0 -81.77670001298488,33.55203646729255,0 -81.76259735440607,33.55203620774799,0 -81.75143085176286,33.55203604671885,0 -81.74702038527758,33.55203559468006,0 
 				</coordinates>
 			</LineString>
 		</Placemark>
@@ -3846,20 +3801,20 @@
 					<styleUrl>#failed11</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_0258CAD4E42AE967FD66">
+			<StyleMap id="__managed_style_0250DC7DC12AE967FD220">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#__managed_style_16A6EC79B52AE967FD66</styleUrl>
+					<styleUrl>#failed141</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#__managed_style_270E3B2A072AE967FD66</styleUrl>
+					<styleUrl>#failed112</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_026F428A4E2AE967FD60">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#failed2</styleUrl>
+					<styleUrl>#failed29</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
@@ -3936,16 +3891,6 @@
 					<styleUrl>#failed25</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_057B6875402AE967FD67">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1053ED7F222AE967FD67</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_23878EF15C2AE967FD67</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_06972EB2052AE967FD30">
 				<Pair>
 					<key>normal</key>
@@ -3966,16 +3911,6 @@
 					<styleUrl>#__managed_style_2924A8DF402AE967FD30</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_06D493CDF92AE967FD63">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_19B2DC99732AE967FD63</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_2EB1317C882AE967FD63</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_0717E39E152AE967FD14">
 				<Pair>
 					<key>normal</key>
@@ -3989,7 +3924,7 @@
 			<StyleMap id="__managed_style_0717E39E152AE967FD140">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#failed42</styleUrl>
+					<styleUrl>#failed420</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
@@ -3997,6 +3932,16 @@
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_0717E39E152AE967FD1400">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#failed42</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#failed2700</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="__managed_style_0717E39E152AE967FD14000">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#failed24</styleUrl>
@@ -4026,16 +3971,6 @@
 					<styleUrl>#failed03</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_0726E43F712AE967FD5B">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_183FDD02A22AE967FD5B</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_280C0820362AE967FD5B</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_0751102BF92AE967FD32">
 				<Pair>
 					<key>normal</key>
@@ -4059,21 +3994,11 @@
 			<StyleMap id="__managed_style_0751102BF92AE967FD3200">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#failed29</styleUrl>
+					<styleUrl>#failed290</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#failed3</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_09E9993A7F2AE967FD68">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1028BC665B2AE967FD68</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_296554923E2AE967FD68</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_0A2524F98C2AE967FD3F">
@@ -4086,16 +4011,6 @@
 					<styleUrl>#__managed_style_244FD4B4912AE967FD3F</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_0A3791EA522AE967FD71">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1E20F709172AE967FD71</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_252AE91A372AE967FD71</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_0AA87025F12AE967FD2A">
 				<Pair>
 					<key>normal</key>
@@ -4106,16 +4021,6 @@
 					<styleUrl>#failed18</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_0BB22233662AE967FD6F">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1516AA22452AE967FD6F</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_2C24F8014B2AE967FD6F</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_0BB9ADCC852AE967FD1D">
 				<Pair>
 					<key>normal</key>
@@ -4124,36 +4029,6 @@
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#failed100</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0BCAC53F032AE967FD6D">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_149CC16B122AE967FD6D</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_2FB9FE424F2AE967FD6D</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0BFADB33CA2AE967FD35">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1787A964142AE967FD35</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_2BC98F871F2AE967FD35</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0C0DF3A9612AE967FD69">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1E95B6B0B82AE967FD69</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_28837D750D2AE967FD69</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_0CDD09B4AB2AE967FD1C">
@@ -4176,74 +4051,14 @@
 					<styleUrl>#__managed_style_2A3BC234962AE967FD33</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_0D397DCCB42AE967FD6B">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1643B80D702AE967FD6B</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_24AAAFEA152AE967FD6B</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0D7BB42DCE2AE967FD65">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1CF7AC9E752AE967FD65</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_248FDBA4A62AE967FD65</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0E0B180FBD2AE967FD61">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1EAFFEDD282AE967FD61</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_2A35A3DF7E2AE967FD61</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0E539165F12AE967FD70">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1BC70909882AE967FD70</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_2BA51ABCE52AE967FD70</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_0EC1B3DA242AE967FD5D">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_1F5DD853192AE967FD5D</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_204C00DB692AE967FD5D</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_0FB115F9902AE967FD5A">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#__managed_style_100B3E02F22AE967FD5A</styleUrl>
+					<styleUrl>#failed8</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#__managed_style_2A17296B232AE967FD5A</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_12C51CE1A12AE967FD3C">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_2BE8B6D97A2AE967FD3C</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_3857A5F1B52AE967FD3C</styleUrl>
+					<styleUrl>#failed0</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_1AC4551BD62AE967FD1E">
@@ -4256,44 +4071,14 @@
 					<styleUrl>#__managed_style_32D5898A262AE967FD1E</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_315B996F852AE967FD70">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_409F2A1CB72AE967FD70</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_5DCF764D052AE967FD70</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_32A5CBD0312AE967FD66">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_4AA1F89BA02AE967FD66</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_5A033E3E4C2AE967FD66</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_32DB9126A12AE967FD34">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#__managed_style_409CD0B3DD2AE967FD34</styleUrl>
+					<styleUrl>#failed35</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#__managed_style_58983463032AE967FD34</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_33024FE6912AE967FD69">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_4E2D6D18082AE967FD69</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_0D678113342AE967FD6A</styleUrl>
+					<styleUrl>#failed</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_33D2C05FC22AE967FD21">
@@ -4314,26 +4099,6 @@
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#failed00</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_356E5FC98D2AE967FD38">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_420CBE6D512AE967FD38</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_53969367672AE967FD38</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_36C917E09D2AE967FD61">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_4B381CF3862AE967FD61</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_5F0ABCB14E2AE967FD61</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_37DCF4A1E52AE967FD19">
@@ -4463,7 +4228,7 @@
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#failed8</styleUrl>
+					<styleUrl>#failed81</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_3A2AC0AA3D2AE967FD170">
@@ -4484,16 +4249,6 @@
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#__managed_style_55C91ABBEB2AE967FD17</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_3DDEC3D6812AE967FD5D">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_462B4D2BBB2AE967FD5D</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_550045D86E2AE967FD5D</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="__managed_style_3F323589722AE967FD3F">
@@ -4536,16 +4291,6 @@
 					<styleUrl>#__managed_style_51244E1C952AE967FD3F</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_3FCBA0654A2AE967FD63">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_4F26D185132AE967FD63</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_56EC9B1E022AE967FD63</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="__managed_style_46E666B0392AE967FD3E">
 				<Pair>
 					<key>normal</key>
@@ -4556,48 +4301,17 @@
 					<styleUrl>#__managed_style_61486D8ABE2AE967FD3E</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="__managed_style_6780B027982AE967FD3A">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_7DBA0D37A52AE967FD3A</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_85874A07C72AE967FD3A</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_69C490612E2AE967FD38">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_73652D4A9F2AE967FD38</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_8E866F1B3A2AE967FD38</styleUrl>
-				</Pair>
-			</StyleMap>
-			<StyleMap id="__managed_style_6BBF5DA2B02AE967FD39">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#__managed_style_7CCB0B9A842AE967FD39</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#__managed_style_82D924B9542AE967FD39</styleUrl>
-				</Pair>
-			</StyleMap>
 			<Style id="failed">
+				<IconStyle>
+					<color>ff00aaff</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+					</Icon>
+				</IconStyle>
 			</Style>
-			<StyleMap id="failed0">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#failed1</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#failed</styleUrl>
-				</Pair>
-			</StyleMap>
+			<Style id="failed0">
+			</Style>
 			<Style id="failed00">
 				<IconStyle>
 					<color>ff000000</color>
@@ -4664,6 +4378,16 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<StyleMap id="failed04">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#failed1</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#failed2</styleUrl>
+				</Pair>
+			</StyleMap>
 			<Style id="failed1">
 			</Style>
 			<Style id="failed10">
@@ -4743,6 +4467,24 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<Style id="failed112">
+				<IconStyle>
+					<color>ffff5555</color>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
 			<Style id="failed12">
 				<IconStyle>
 					<color>ff0000ff</color>
@@ -4803,6 +4545,24 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<Style id="failed141">
+				<IconStyle>
+					<color>ffff5555</color>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
 			<Style id="failed15">
 				<LineStyle>
 					<color>ff00aaff</color>
@@ -4857,10 +4617,6 @@
 				</LineStyle>
 			</Style>
 			<Style id="failed2">
-				<LineStyle>
-					<color>ff0000ff</color>
-					<width>2</width>
-				</LineStyle>
 			</Style>
 			<Style id="failed20">
 				<LineStyle>
@@ -4918,6 +4674,11 @@
 					<color>80ffffff</color>
 				</LabelStyle>
 			</Style>
+			<Style id="failed2700">
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+			</Style>
 			<Style id="failed28">
 				<IconStyle>
 					<scale>1.1</scale>
@@ -4936,6 +4697,12 @@
 				</ListStyle>
 			</Style>
 			<Style id="failed29">
+				<LineStyle>
+					<color>ff0000ff</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="failed290">
 			</Style>
 			<Style id="failed3">
 			</Style>
@@ -4997,6 +4764,15 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<Style id="failed35">
+				<IconStyle>
+					<color>ff00aaff</color>
+					<scale>1.2</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/donut.png</href>
+					</Icon>
+				</IconStyle>
+			</Style>
 			<Style id="failed4">
 				<LabelStyle>
 					<color>80ffffff</color>
@@ -5021,6 +4797,11 @@
 				</LineStyle>
 			</Style>
 			<Style id="failed42">
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+			</Style>
+			<Style id="failed420">
 				<LabelStyle>
 					<color>80ffffff</color>
 				</LabelStyle>
@@ -5078,13 +4859,15 @@
 				</LineStyle>
 			</Style>
 			<Style id="failed8">
-				<LineStyle>
-					<color>ffff00aa</color>
-					<width>2</width>
-				</LineStyle>
 			</Style>
 			<Style id="failed80">
 				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="failed81">
+				<LineStyle>
+					<color>ffff00aa</color>
 					<width>2</width>
 				</LineStyle>
 			</Style>
@@ -5108,16 +4891,20 @@
 			</Style>
 			<Style id="inline">
 				<LineStyle>
-					<color>ff0000ff</color>
+					<color>ffff00aa</color>
 					<width>2</width>
 				</LineStyle>
 			</Style>
-			<Style id="inline0">
-				<LineStyle>
-					<color>ff00aa00</color>
-					<width>2</width>
-				</LineStyle>
-			</Style>
+			<StyleMap id="inline0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline23</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline19</styleUrl>
+				</Pair>
+			</StyleMap>
 			<Style id="inline00">
 				<LineStyle>
 					<color>ff0000ff</color>
@@ -5136,7 +4923,7 @@
 			<StyleMap id="inline01">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline13</styleUrl>
+					<styleUrl>#inline130</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
@@ -5149,20 +4936,30 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
-			<Style id="inline1">
+			<Style id="inline03">
 				<LineStyle>
 					<color>ff00aa00</color>
 					<width>2</width>
 				</LineStyle>
 			</Style>
-			<StyleMap id="inline10">
+			<StyleMap id="inline1">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline02</styleUrl>
+					<styleUrl>#inline5</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline17</styleUrl>
+					<styleUrl>#inline13</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="inline10">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline12</styleUrl>
 				</Pair>
 			</StyleMap>
 			<Style id="inline100">
@@ -5189,8 +4986,24 @@
 					<fill>0</fill>
 				</PolyStyle>
 			</Style>
+			<StyleMap id="inline102">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline02</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline17</styleUrl>
+				</Pair>
+			</StyleMap>
 			<Style id="inline11">
 				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline110">
+				<LineStyle>
+					<color>ff00aa00</color>
 					<width>2</width>
 				</LineStyle>
 			</Style>
@@ -5200,7 +5013,19 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<Style id="inline120">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
 			<Style id="inline13">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline130">
 				<LineStyle>
 					<color>ffff00aa</color>
 					<width>2</width>
@@ -5216,6 +5041,12 @@
 			</Style>
 			<Style id="inline15">
 				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline150">
+				<LineStyle>
 					<color>ffff5500</color>
 					<width>2</width>
 				</LineStyle>
@@ -5223,7 +5054,7 @@
 					<fill>0</fill>
 				</PolyStyle>
 			</Style>
-			<Style id="inline16">
+			<Style id="inline160">
 				<LineStyle>
 					<color>ff0000ff</color>
 					<width>2</width>
@@ -5241,30 +5072,46 @@
 			<StyleMap id="inline18">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline16</styleUrl>
+					<styleUrl>#inline160</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline7</styleUrl>
+					<styleUrl>#inline70</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="inline19">
+			<Style id="inline19">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="inline190">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline15</styleUrl>
+					<styleUrl>#inline150</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#inline21</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Style id="inline2">
+			<StyleMap id="inline2">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline27</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline24</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="inline20">
 				<LineStyle>
 					<color>ff0000ff</color>
 					<width>2</width>
 				</LineStyle>
 			</Style>
-			<Style id="inline20">
+			<Style id="inline200">
 				<LineStyle>
 					<color>ffff0000</color>
 					<width>2</width>
@@ -5281,6 +5128,12 @@
 			</Style>
 			<Style id="inline22">
 				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline220">
+				<LineStyle>
 					<width>2</width>
 				</LineStyle>
 				<PolyStyle>
@@ -5289,6 +5142,12 @@
 			</Style>
 			<Style id="inline23">
 				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline230">
+				<LineStyle>
 					<color>ff000000</color>
 					<width>2</width>
 				</LineStyle>
@@ -5296,36 +5155,60 @@
 					<fill>0</fill>
 				</PolyStyle>
 			</Style>
-			<StyleMap id="inline24">
+			<Style id="inline24">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="inline240">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline23</styleUrl>
+					<styleUrl>#inline230</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline8</styleUrl>
+					<styleUrl>#inline81</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="inline25">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline1</styleUrl>
+					<styleUrl>#inline110</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline0</styleUrl>
+					<styleUrl>#inline03</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="inline3">
+			<Style id="inline26">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline27">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<StyleMap id="inline29">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline30</styleUrl>
+					<styleUrl>#inline26</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline5</styleUrl>
+					<styleUrl>#inline22</styleUrl>
 				</Pair>
 			</StyleMap>
+			<Style id="inline3">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
 			<Style id="inline30">
 				<LineStyle>
 					<color>ffff5500</color>
@@ -5341,13 +5224,31 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<StyleMap id="inline31">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline30</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline51</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="inline32">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline3</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline8</styleUrl>
+				</Pair>
+			</StyleMap>
 			<Style id="inline4">
 				<LineStyle>
+					<color>ff0000ff</color>
 					<width>2</width>
 				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
 			</Style>
 			<Style id="inline40">
 				<LineStyle>
@@ -5355,7 +5256,27 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<Style id="inline41">
+				<LineStyle>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
 			<Style id="inline5">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline50">
+				<LineStyle>
+					<color>ffff0000</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="inline51">
 				<LineStyle>
 					<color>ffff5500</color>
 					<width>2</width>
@@ -5364,20 +5285,14 @@
 					<fill>0</fill>
 				</PolyStyle>
 			</Style>
-			<Style id="inline50">
-				<LineStyle>
-					<color>ffff0000</color>
-					<width>2</width>
-				</LineStyle>
-			</Style>
 			<StyleMap id="inline6">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline4</styleUrl>
+					<styleUrl>#inline41</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline22</styleUrl>
+					<styleUrl>#inline220</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="inline60">
@@ -5410,7 +5325,17 @@
 					<styleUrl>#inline000</styleUrl>
 				</Pair>
 			</StyleMap>
-			<Style id="inline7">
+			<StyleMap id="inline7">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline15</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline9</styleUrl>
+				</Pair>
+			</StyleMap>
+			<Style id="inline70">
 				<LineStyle>
 					<color>ff0000ff</color>
 					<width>2</width>
@@ -5419,10 +5344,10 @@
 					<fill>0</fill>
 				</PolyStyle>
 			</Style>
-			<StyleMap id="inline70">
+			<StyleMap id="inline700">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#inline20</styleUrl>
+					<styleUrl>#inline200</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
@@ -5437,12 +5362,9 @@
 			</Style>
 			<Style id="inline8">
 				<LineStyle>
-					<color>ff000000</color>
+					<color>ffff00aa</color>
 					<width>2</width>
 				</LineStyle>
-				<PolyStyle>
-					<fill>0</fill>
-				</PolyStyle>
 			</Style>
 			<StyleMap id="inline80">
 				<Pair>
@@ -5454,16 +5376,21 @@
 					<styleUrl>#inline11</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="inline9">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#inline</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#inline2</styleUrl>
-				</Pair>
-			</StyleMap>
+			<Style id="inline81">
+				<LineStyle>
+					<color>ff000000</color>
+					<width>2</width>
+				</LineStyle>
+				<PolyStyle>
+					<fill>0</fill>
+				</PolyStyle>
+			</Style>
+			<Style id="inline9">
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
 			<StyleMap id="inline90">
 				<Pair>
 					<key>normal</key>
@@ -5471,10 +5398,30 @@
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#inline12</styleUrl>
+					<styleUrl>#inline120</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="inline91">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#inline4</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#inline20</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="m_ylw-pushpin">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin03</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="m_ylw-pushpin1">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin8</styleUrl>
@@ -5484,20 +5431,10 @@
 					<styleUrl>#s_ylw-pushpin_hl</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="m_ylw-pushpin1">
-				<Pair>
-					<key>normal</key>
-					<styleUrl>#s_ylw-pushpin10</styleUrl>
-				</Pair>
-				<Pair>
-					<key>highlight</key>
-					<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
-				</Pair>
-			</StyleMap>
 			<StyleMap id="m_ylw-pushpin10">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#s_ylw-pushpin01</styleUrl>
+					<styleUrl>#s_ylw-pushpin010</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
@@ -5507,17 +5444,27 @@
 			<StyleMap id="m_ylw-pushpin100">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#s_ylw-pushpin010</styleUrl>
+					<styleUrl>#s_ylw-pushpin0100</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl100</styleUrl>
 				</Pair>
 			</StyleMap>
+			<StyleMap id="m_ylw-pushpin11">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin10</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl10</styleUrl>
+				</Pair>
+			</StyleMap>
 			<StyleMap id="m_ylw-pushpin2">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#s_ylw-pushpin0</styleUrl>
+					<styleUrl>#s_ylw-pushpin01</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
@@ -5537,6 +5484,36 @@
 			<StyleMap id="m_ylw-pushpin22">
 				<Pair>
 					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin400</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl2200</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="m_ylw-pushpin220">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin41</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl221</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="m_ylw-pushpin2200">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin401</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl222</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="m_ylw-pushpin2201">
+				<Pair>
+					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin40</styleUrl>
 				</Pair>
 				<Pair>
@@ -5544,7 +5521,7 @@
 					<styleUrl>#s_ylw-pushpin_hl220</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="m_ylw-pushpin220">
+			<StyleMap id="m_ylw-pushpin22010">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin4</styleUrl>
@@ -5601,7 +5578,7 @@
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#s_ylw-pushpin_hl3</styleUrl>
+					<styleUrl>#s_ylw-pushpin_hl30</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="m_ylw-pushpin6">
@@ -5617,11 +5594,41 @@
 			<StyleMap id="m_ylw-pushpin60">
 				<Pair>
 					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin02</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl70</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="m_ylw-pushpin7">
+				<Pair>
+					<key>normal</key>
 					<styleUrl>#s_ylw-pushpin</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
+					<styleUrl>#s_ylw-pushpin_hl8</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="m_ylw-pushpin8">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#s_ylw-pushpin0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
 					<styleUrl>#s_ylw-pushpin_hl7</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_open-diamond">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_open-diamond</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_open-diamond</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="msn_placemark_circle">
@@ -5637,21 +5644,51 @@
 			<StyleMap id="msn_wht-blank">
 				<Pair>
 					<key>normal</key>
-					<styleUrl>#sn_wht-blank0</styleUrl>
+					<styleUrl>#sn_wht-blank1</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_wht-blank</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_wht-blank0">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_wht-blank2</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_wht-blank1</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_wht-blank00">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_wht-blank3</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
 					<styleUrl>#sh_wht-blank0</styleUrl>
 				</Pair>
 			</StyleMap>
-			<StyleMap id="msn_wht-blank0">
+			<StyleMap id="msn_wht-blank1">
 				<Pair>
 					<key>normal</key>
 					<styleUrl>#sn_wht-blank</styleUrl>
 				</Pair>
 				<Pair>
 					<key>highlight</key>
-					<styleUrl>#sh_wht-blank</styleUrl>
+					<styleUrl>#sh_wht-blank2</styleUrl>
+				</Pair>
+			</StyleMap>
+			<StyleMap id="msn_wht-blank2">
+				<Pair>
+					<key>normal</key>
+					<styleUrl>#sn_wht-blank0</styleUrl>
+				</Pair>
+				<Pair>
+					<key>highlight</key>
+					<styleUrl>#sh_wht-blank00</styleUrl>
 				</Pair>
 			</StyleMap>
 			<StyleMap id="msn_ylw-pushpin0">
@@ -5782,6 +5819,10 @@
 					</Icon>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
 			</Style>
 			<Style id="s_ylw-pushpin0">
 				<IconStyle>
@@ -5800,12 +5841,43 @@
 					</Icon>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin010">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
 				<LineStyle>
 					<color>ff00aaff</color>
 					<width>2</width>
 				</LineStyle>
 			</Style>
-			<Style id="s_ylw-pushpin010">
+			<Style id="s_ylw-pushpin0100">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin02">
+				<IconStyle>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin03">
 				<IconStyle>
 					<scale>1.1</scale>
 					<Icon>
@@ -5876,11 +5948,59 @@
 			</Style>
 			<Style id="s_ylw-pushpin40">
 				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.2</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffaa55</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin400">
+				<IconStyle>
 					<scale>1.1</scale>
 					<Icon>
 						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 					</Icon>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffaa55</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin401">
+				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.2</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffaa55</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin41">
+				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.2</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
 				</IconStyle>
 				<LabelStyle>
 					<color>80ffffff</color>
@@ -6034,11 +6154,59 @@
 			</Style>
 			<Style id="s_ylw-pushpin_hl220">
 				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffaa55</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl2200">
+				<IconStyle>
 					<scale>1.3</scale>
 					<Icon>
 						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
 					</Icon>
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffaa55</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl221">
+				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffaa55</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl222">
+				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
 				</IconStyle>
 				<LabelStyle>
 					<color>80ffffff</color>
@@ -6062,6 +6230,19 @@
 				</LineStyle>
 			</Style>
 			<Style id="s_ylw-pushpin_hl3">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl30">
 				<IconStyle>
 					<scale>1.3</scale>
 					<Icon>
@@ -6126,6 +6307,44 @@
 					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
 				</IconStyle>
 			</Style>
+			<Style id="s_ylw-pushpin_hl70">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+			</Style>
+			<Style id="s_ylw-pushpin_hl8">
+				<IconStyle>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png</href>
+					</Icon>
+					<hotSpot x="20" y="2" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LineStyle>
+					<color>ffff00aa</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
+			<Style id="sh_open-diamond">
+				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.4</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffff00</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
 			<Style id="sh_placemark_circle_highlight">
 				<IconStyle>
 					<color>ff00aa00</color>
@@ -6137,7 +6356,7 @@
 			</Style>
 			<Style id="sh_wht-blank">
 				<IconStyle>
-					<color>ffff5555</color>
+					<color>ff0000ff</color>
 					<scale>1.3</scale>
 					<Icon>
 						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
@@ -6155,7 +6374,61 @@
 			</Style>
 			<Style id="sh_wht-blank0">
 				<IconStyle>
+					<color>ffff5555</color>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sh_wht-blank00">
+				<IconStyle>
 					<color>ff0000ff</color>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sh_wht-blank1">
+				<IconStyle>
+					<color>ffff5555</color>
+					<scale>1.3</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sh_wht-blank2">
+				<IconStyle>
+					<color>ff000000</color>
 					<scale>1.3</scale>
 					<Icon>
 						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
@@ -6326,6 +6599,22 @@
 					<width>2</width>
 				</LineStyle>
 			</Style>
+			<Style id="sn_open-diamond">
+				<IconStyle>
+					<color>ffffaa55</color>
+					<scale>1.2</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/shapes/open-diamond.png</href>
+					</Icon>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<LineStyle>
+					<color>ffffff00</color>
+					<width>2</width>
+				</LineStyle>
+			</Style>
 			<Style id="sn_placemark_circle">
 				<IconStyle>
 					<color>ff00aa00</color>
@@ -6337,7 +6626,7 @@
 			</Style>
 			<Style id="sn_wht-blank">
 				<IconStyle>
-					<color>ffff5555</color>
+					<color>ff000000</color>
 					<scale>1.1</scale>
 					<Icon>
 						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
@@ -6356,6 +6645,60 @@
 			<Style id="sn_wht-blank0">
 				<IconStyle>
 					<color>ff0000ff</color>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sn_wht-blank1">
+				<IconStyle>
+					<color>ff0000ff</color>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sn_wht-blank2">
+				<IconStyle>
+					<color>ffff5555</color>
+					<scale>1.1</scale>
+					<Icon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
+					</Icon>
+					<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+				</IconStyle>
+				<LabelStyle>
+					<color>80ffffff</color>
+				</LabelStyle>
+				<ListStyle>
+					<ItemIcon>
+						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank-lv.png</href>
+					</ItemIcon>
+				</ListStyle>
+			</Style>
+			<Style id="sn_wht-blank3">
+				<IconStyle>
+					<color>ffff5555</color>
 					<scale>1.1</scale>
 					<Icon>
 						<href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href>
@@ -6759,19 +7102,18 @@
 					<styleUrl>#__managed_style_0717E39E152AE967FD14</styleUrl>
 					<Placemark id="0976C71F112A152E40C5">
 						<name>page 752 (triangle)</name>
-						<LookAt>
-							<longitude>-157.8580359238839</longitude>
-							<latitude>21.31095107094681</latitude>
-							<altitude>115.9145950831079</altitude>
-							<heading>0.002625713494541459</heading>
-							<tilt>0</tilt>
-							<range>2172.590472671728</range>
-							<altitudeMode>absolute</altitudeMode>
-							<gx:fovy>34.99999999999999</gx:fovy>
-						</LookAt>
-						<styleUrl>#m_ylw-pushpin220</styleUrl>
+						<Camera>
+							<longitude>-157.8582230865067</longitude>
+							<latitude>21.3100800983767</latitude>
+							<altitude>546.2391304311417</altitude>
+							<heading>-86.75706231004543</heading>
+							<tilt>0.02563195326291524</tilt>
+							<roll>-86.62687677909845</roll>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+						</Camera>
+						<styleUrl>#m_ylw-pushpin2201</styleUrl>
 						<Point>
-							<coordinates>-157.8581554966172,21.30991413113152,8.441304253081874</coordinates>
+							<coordinates>-157.8591504737236,21.30938992409744,8.441304253081874</coordinates>
 						</Point>
 					</Placemark>
 					<Placemark id="06E247EA782A151FA7DF">
@@ -6786,7 +7128,7 @@
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin220</styleUrl>
+						<styleUrl>#m_ylw-pushpin22010</styleUrl>
 						<Point>
 							<coordinates>-111.9616472645749,33.51477959867695,822.9226884644083</coordinates>
 						</Point>
@@ -6803,7 +7145,7 @@
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>34.99999999997195</gx:fovy>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin220</styleUrl>
+						<styleUrl>#m_ylw-pushpin22010</styleUrl>
 						<Point>
 							<coordinates>-86.79549499688837,33.49171969040101,352.1057161105121</coordinates>
 						</Point>
@@ -6811,18 +7153,17 @@
 					<Placemark id="0E6CF933332A15241EC4">
 						<name>page 529</name>
 						<LookAt>
-							<longitude>-81.37817061285946</longitude>
-							<latitude>28.54093075581261</latitude>
-							<altitude>73.9270039794262</altitude>
-							<heading>-126.6955491597431</heading>
-							<tilt>6.690262059731126</tilt>
-							<range>841.1571712864679</range>
-							<altitudeMode>absolute</altitudeMode>
-							<gx:fovy>35</gx:fovy>
+							<longitude>-81.37733809138989</longitude>
+							<latitude>28.54232719576727</latitude>
+							<altitude>0</altitude>
+							<heading>-0.0001400072354107323</heading>
+							<tilt>6.410012059893943</tilt>
+							<range>907.1543223048781</range>
+							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
 						<styleUrl>#m_ylw-pushpin220</styleUrl>
 						<Point>
-							<coordinates>-81.37816347181113,28.54061432775674,74.0094825451812</coordinates>
+							<coordinates>-81.37697743498903,28.5430688869002,74.0094825451812</coordinates>
 						</Point>
 					</Placemark>
 					<Placemark id="062E40FACE2A152ADA58">
@@ -6837,7 +7178,7 @@
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>34.99999999998186</gx:fovy>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin220</styleUrl>
+						<styleUrl>#m_ylw-pushpin22010</styleUrl>
 						<Point>
 							<coordinates>8.3137952273664,47.05541982241311,478.5648105565468</coordinates>
 						</Point>
@@ -6854,10 +7195,10 @@
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>34.99999999999999</gx:fovy>
 						</LookAt>
-						<styleUrl>#m_ylw-pushpin220</styleUrl>
+						<styleUrl>#m_ylw-pushpin2200</styleUrl>
 						<LineString>
 							<coordinates>
-								-157.8581554358096,21.30991456747497,8.44523910064877 -111.9616500808968,33.51480939351816,786.0553859387009 -86.79549104574428,33.49171990061537,30.44299996713361 -81.37819638504241,28.54068683512806,123.2533830602629 8.31380128513133,47.05545933635663,442.5996143763783 
+								-157.8591283253874,21.30941068374874,8.44523910064877 -111.9616500808968,33.51480939351816,786.0553859387009 -86.79549104574428,33.49171990061537,30.44299996713361 -81.37696690852643,28.54309339875914,123.2533830602629 8.31380128513133,47.05545933635663,442.5996143763783 
 							</coordinates>
 						</LineString>
 					</Placemark>
@@ -7298,6 +7639,7 @@
 				<styleUrl>#__managed_style_0CDD09B4AB2AE967FD1C</styleUrl>
 				<Folder id="004CF8F80020961AD082">
 					<name>hearts</name>
+					<open>1</open>
 					<styleUrl>#__managed_style_0717E39E152AE967FD14</styleUrl>
 					<Placemark id="053A774FFE1FFCFD6AA1">
 						<name>A♥ ALLGOOD Augusta University Compass Rose</name>
@@ -7420,7 +7762,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#msn_wht-blank</styleUrl>
+						<styleUrl>#msn_wht-blank2</styleUrl>
 						<Point>
 							<coordinates>-84.24249999999999,35.1249167,633.5194896230823</coordinates>
 						</Point>
@@ -7499,7 +7841,9 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="059D8884371FFD01D09B">
 						<name>Q♥ CORONA - Tower of the Americas</name>
-						<description><![CDATA[<div>CORONA<br></div>]]></description>
+						<description><![CDATA[<div>CORONA<br></div>
+
+29.419028 -98.483556]]></description>
 						<LookAt>
 							<longitude>-98.48319901852963</longitude>
 							<latitude>29.41933409224034</latitude>
@@ -7510,7 +7854,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>34.99999999998544</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0BB9ADCC852AE967FD1D</styleUrl>
+						<styleUrl>#msn_wht-blank</styleUrl>
 						<Point>
 							<coordinates>-98.4835556,29.41902779999999,386.6476046865698</coordinates>
 						</Point>
@@ -7551,7 +7895,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-80.95488337208181,34.0620283135545,68.12916947149522</coordinates>
 						</Point>
@@ -7569,7 +7913,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-79.00065028858801,35.14616160607517,88.87393601488164</coordinates>
 						</Point>
@@ -7587,7 +7931,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-82.77471521253895,35.39350285001706,1618.291843974597</coordinates>
 						</Point>
@@ -7605,7 +7949,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-84.3833322111855,33.78451369390726,308.0675160627539</coordinates>
 						</Point>
@@ -7625,7 +7969,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#msn_wht-blank0</styleUrl>
+						<styleUrl>#msn_wht-blank00</styleUrl>
 						<Point>
 							<coordinates>-75.66491666666667,35.89019444444445,0.4169424120084119</coordinates>
 						</Point>
@@ -7643,7 +7987,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-82.17103347207762,33.41100931472693,140.2257965128783</coordinates>
 						</Point>
@@ -7661,7 +8005,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>34.99999999965347</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-83.79842284930474,34.98757165080929,592.5031643025965</coordinates>
 						</Point>
@@ -7678,7 +8022,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>34.99999999663336</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-83.38011561149102,33.95811511858285,216.9290791279224</coordinates>
 						</Point>
@@ -7694,7 +8038,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<range>578.4562130884829</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-82.40292640435732,34.84152052024568,289.9047310281377</coordinates>
 						</Point>
@@ -7712,7 +8056,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#__managed_style_0250DC7DC12AE967FD220</styleUrl>
 						<Point>
 							<coordinates>-82.10234984486705,35.53020975207144,397.6545080316678</coordinates>
 						</Point>
@@ -7732,7 +8076,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#msn_wht-blank0</styleUrl>
+						<styleUrl>#msn_wht-blank00</styleUrl>
 						<Point>
 							<coordinates>-83.51827777777778,35.5182,1407.378357618258</coordinates>
 						</Point>
@@ -7740,29 +8084,30 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					<Placemark>
 						<name>Q♠ - JENNY</name>
 						<LookAt>
-							<gx:TimeStamp><when>2019-12-31</when>
+							<gx:TimeStamp><when>2016-03-21</when>
 </gx:TimeStamp>
 							<gx:ViewerOptions>
 								<gx:option name="historicalimagery"></gx:option>
 								<gx:option enabled="0" name="sunlight"></gx:option>
 								<gx:option enabled="0" name="streetview"></gx:option>
 							</gx:ViewerOptions>
-							<longitude>-94.51339249536925</longitude>
-							<latitude>35.33240447562584</latitude>
+							<longitude>-94.51250933617638</longitude>
+							<latitude>35.33212367005352</latitude>
 							<altitude>0</altitude>
-							<heading>-0.1268505677128142</heading>
-							<tilt>0</tilt>
-							<range>326.8731571745669</range>
+							<heading>-0.9317837919638874</heading>
+							<tilt>1.662677521195014</tilt>
+							<range>245.3506778582592</range>
 							<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 						</LookAt>
 						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
 						<Point>
 							<gx:drawOrder>1</gx:drawOrder>
-							<coordinates>-94.51347223554812,35.33251988664056,0</coordinates>
+							<coordinates>-94.51314091005648,35.33209666580632,0</coordinates>
 						</Point>
 					</Placemark>
 					<Placemark id="017A0456E41FFE42E21D">
 						<name>K♠ - JOANA</name>
+						<description>35.257531 -83.795283</description>
 						<LookAt>
 							<longitude>-83.7952883444115</longitude>
 							<latitude>35.25754505765468</latitude>
@@ -7773,7 +8118,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_0250DC7DC12AE967FD22</styleUrl>
+						<styleUrl>#msn_wht-blank0</styleUrl>
 						<Point>
 							<coordinates>-83.79528366089929,35.25752927888735,1438.69413084655</coordinates>
 						</Point>
@@ -7781,6 +8126,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				</Folder>
 				<Folder id="0A2F149C2920961B30F5">
 					<name>diamonds</name>
+					<open>1</open>
 					<styleUrl>#__managed_style_0717E39E152AE967FD14</styleUrl>
 					<Placemark id="068657D02E1FFCFA577C">
 						<name>A♦ KLINGMAN - AT&amp;T Atlanta</name>
@@ -7910,7 +8256,9 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="03165B77691FFCE7D478">
 						<name>8♦ PORKCHOP - Porkchop&apos;s Tower (Long Lines)</name>
-						<description><![CDATA[<div>PORKCHOP<br></div><div><br></div><div>an old long line radio communication tower. its horns now sit silent<br></div>]]></description>
+						<description><![CDATA[<div>PORKCHOP<br></div><div><br></div><div>an old long line radio communication tower. its horns now sit silent<br></div>
+
+33.475083 -81.969325]]></description>
 						<LookAt>
 							<longitude>-81.96797535616651</longitude>
 							<latitude>33.47593096401948</latitude>
@@ -7921,7 +8269,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							<altitudeMode>absolute</altitudeMode>
 							<gx:fovy>35</gx:fovy>
 						</LookAt>
-						<styleUrl>#__managed_style_33D2C05FC22AE967FD21</styleUrl>
+						<styleUrl>#msn_wht-blank1</styleUrl>
 						<Point>
 							<coordinates>-81.96932390080615,33.47508432653751,101.6285287508856</coordinates>
 						</Point>
@@ -8020,6 +8368,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				</Folder>
 				<Folder id="0E35A1BD8320961B4D48">
 					<name>clubs</name>
+					<open>1</open>
 					<styleUrl>#__managed_style_0717E39E152AE967FD14</styleUrl>
 					<Placemark id="09D7B15E9D1FFCF04029">
 						<name>A♣ SEVENTYFIRST - Little Rockfish Creek</name>
@@ -8415,7 +8764,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Point>
 				</Placemark>
 				<Placemark id="097FCAFEA726C91A9D9C">
-					<name>Museum of the Cherokee Indian</name>
+					<name>Museum of the Cherokee people</name>
 					<LookAt>
 						<longitude>-83.3164168</longitude>
 						<latitude>35.4845593</latitude>
@@ -8426,7 +8775,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>relativeToGround</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0717E39E152AE967FD140</styleUrl>
+					<styleUrl>#__managed_style_0717E39E152AE967FD1400</styleUrl>
 					<Point>
 						<altitudeMode>relativeToGround</altitudeMode>
 						<coordinates>-83.3164168,35.4845593,0</coordinates>
@@ -8521,14 +8870,22 @@ Lat: 35.124917 Long: -84.2425]]></description>
 			</Folder>
 			<Folder id="0F08425C5B2010744F6B">
 				<name>Lines</name>
-				<open>1</open>
 				<styleUrl>#__managed_style_0717E39E152AE967FD14</styleUrl>
 				<Folder>
 					<name>confirmed</name>
-					<visibility>0</visibility>
+					<open>1</open>
+					<Placemark>
+						<name>MEDICINEDOWN -&gt; Cheoah dam</name>
+						<styleUrl>#inline10</styleUrl>
+						<LineString>
+							<tessellate>1</tessellate>
+							<coordinates>
+								-84.03957139754219,35.08586228349054,488.2547675589632 -83.93618054932458,35.44833810727284,386.329591277978 
+							</coordinates>
+						</LineString>
+					</Placemark>
 					<Placemark id="0B4399604F22EEE2611F">
 						<name>page 582 - SPEARFINGER/NOWARE</name>
-						<visibility>0</visibility>
 						<LookAt>
 							<longitude>-83.31586212345725</longitude>
 							<latitude>35.48465297813424</latitude>
@@ -8548,11 +8905,9 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Folder id="02F47FCC6D2058FF61BA">
 						<name>page 69</name>
-						<visibility>0</visibility>
 						<styleUrl>#__managed_style_0717E39E152AE967FD14</styleUrl>
 						<Placemark id="02D16A7E4820529984E5">
 							<name>heart key path</name>
-							<visibility>0</visibility>
 							<description><![CDATA[<div>between page 69 coords andALLGOOD<br></div><div>see page 69 documentation for details<br></div>]]></description>
 							<LookAt>
 								<longitude>-81.9769014674001</longitude>
@@ -8573,7 +8928,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						</Placemark>
 						<Placemark id="0927FDDBDC205297590A">
 							<name>eyeKeyPath</name>
-							<visibility>0</visibility>
 							<description><![CDATA[<div>between page 69 coords and brasstown bald<br></div><div>see page 69 documentation for details<br></div>]]></description>
 							<LookAt>
 								<longitude>-81.99043105092206</longitude>
@@ -8660,14 +9014,11 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Folder>
 					<Folder>
 						<name>page0</name>
-						<visibility>0</visibility>
 						<Folder>
 							<name>pencilLines</name>
-							<visibility>0</visibility>
 							<open>1</open>
 							<Placemark>
 								<name>lowerPencilLine</name>
-								<visibility>0</visibility>
 								<styleUrl>#__managed_style_37DCF4A1E52AE967FD194</styleUrl>
 								<LineString>
 									<tessellate>1</tessellate>
@@ -8678,7 +9029,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							</Placemark>
 							<Placemark>
 								<name>upperPencilLine</name>
-								<visibility>0</visibility>
 								<styleUrl>#__managed_style_37DCF4A1E52AE967FD1900</styleUrl>
 								<LineString>
 									<tessellate>1</tessellate>
@@ -8689,7 +9039,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							</Placemark>
 							<Placemark>
 								<name>medicinedown/fainPeak</name>
-								<visibility>0</visibility>
 								<styleUrl>#m_ylw-pushpin100</styleUrl>
 								<LineString>
 									<tessellate>1</tessellate>
@@ -8700,7 +9049,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							</Placemark>
 							<Placemark>
 								<name>murray gap/medicineDown</name>
-								<visibility>0</visibility>
 								<styleUrl>#__managed_style_37DCF4A1E52AE967FD1950</styleUrl>
 								<LineString>
 									<tessellate>1</tessellate>
@@ -8711,7 +9059,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							</Placemark>
 							<Placemark>
 								<name>medicinedown/emory gap (dubious)</name>
-								<visibility>0</visibility>
 								<styleUrl>#__managed_style_37DCF4A1E52AE967FD1951</styleUrl>
 								<LineString>
 									<tessellate>1</tessellate>
@@ -8723,7 +9070,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						</Folder>
 						<Placemark id="02B42C88C320A1FE013C">
 							<name>soJoana line</name>
-							<visibility>0</visibility>
 							<LookAt>
 								<longitude>-84.13150042490999</longitude>
 								<latitude>35.55517177613361</latitude>
@@ -8744,7 +9090,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Folder>
 					<Placemark>
 						<name>page 515 ray</name>
-						<visibility>0</visibility>
 						<styleUrl>#inline61</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
@@ -8755,7 +9100,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="0BEBA8C8E222EEF64E64">
 						<name>page 320 line</name>
-						<visibility>0</visibility>
 						<LookAt>
 							<longitude>-82.54379748441208</longitude>
 							<latitude>35.57361358727513</latitude>
@@ -8775,7 +9119,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="09A836445E29F749AB8C">
 						<name>503 line-nolta/panther</name>
-						<visibility>0</visibility>
 						<LookAt>
 							<longitude>-84.09928179695856</longitude>
 							<latitude>35.06584867566512</latitude>
@@ -8795,7 +9138,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="009C72AB2129F74B053A">
 						<name>503 line nolta/whitealice</name>
-						<visibility>0</visibility>
 						<LookAt>
 							<longitude>-83.81098539111416</longitude>
 							<latitude>34.87442731077686</latitude>
@@ -8815,7 +9157,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="08770DA7A4200D4E0D2F">
 						<name>magnolia/mongin Pyramid Line</name>
-						<visibility>0</visibility>
 						<description><![CDATA[<div><a href="https://i.imgur.com/BkmsU7O.jpeg">https://i.imgur.com/BkmsU7O.jpeg</a><br></div>]]></description>
 						<LookAt>
 							<longitude>-79.94164069999999</longitude>
@@ -8836,7 +9177,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark id="0346686C1620A20800F9">
 						<name>368 quarry/diablo line</name>
-						<visibility>0</visibility>
 						<LookAt>
 							<longitude>-82.7747605</longitude>
 							<latitude>35.3934238</latitude>
@@ -8856,18 +9196,16 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark>
 						<name>page 512 ray</name>
-						<visibility>0</visibility>
 						<styleUrl>#inline90</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
 							<coordinates>
-								-81.77602548739655,33.52921906417082,124.5641163260163 -81.84526413641039,33.40992691732782,124.5641163260163 
+								-81.77602548739655,33.52921906417082,124.5641163260163 -81.84541536067559,33.40990953680489,124.5641163260163 
 							</coordinates>
 						</LineString>
 					</Placemark>
 					<Placemark>
 						<name>509/512/railroadpage1</name>
-						<visibility>0</visibility>
 						<styleUrl>#msn_ylw-pushpin10</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
@@ -8878,7 +9216,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark>
 						<name>fain, joana, yellowtoe</name>
-						<visibility>0</visibility>
 						<styleUrl>#m_ylw-pushpin31</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
@@ -8889,7 +9226,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark>
 						<name>murrayGap,joana,greaybeat,?</name>
-						<visibility>0</visibility>
 						<styleUrl>#m_ylw-pushpin3</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
@@ -8900,7 +9236,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Placemark>
 						<name>murray gap, wormwood, emory gap, volumen</name>
-						<visibility>0</visibility>
 						<styleUrl>#msn_ylw-pushpin01</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
@@ -8911,11 +9246,9 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					</Placemark>
 					<Folder>
 						<name>236/237</name>
-						<visibility>0</visibility>
 						<open>1</open>
 						<Placemark id="0D39C9AF6220A204E4C3">
 							<name>236 ray 1</name>
-							<visibility>0</visibility>
 							<description><![CDATA[<div>usure what this is meant to point to<br></div>]]></description>
 							<LookAt>
 								<longitude>-82.54357240386665</longitude>
@@ -8936,7 +9269,6 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						</Placemark>
 						<Placemark>
 							<name>237 lower ray</name>
-							<visibility>0</visibility>
 							<styleUrl>#msn_ylw-pushpin1</styleUrl>
 							<LineString>
 								<tessellate>1</tessellate>
@@ -8946,23 +9278,128 @@ Lat: 35.124917 Long: -84.2425]]></description>
 							</LineString>
 						</Placemark>
 					</Folder>
-					<Placemark>
-						<name>IRIS -&gt; gatlinburg</name>
-						<visibility>0</visibility>
-						<styleUrl>#m_ylw-pushpin1</styleUrl>
-						<LineString>
-							<tessellate>1</tessellate>
-							<coordinates>
-								-83.51826483252815,35.71070040620556,0 -83.51828007686817,35.51820478476585,0 
-							</coordinates>
-						</LineString>
-					</Placemark>
+					<Folder>
+						<name>due eat/west or north/south</name>
+						<open>1</open>
+						<Placemark>
+							<name>chota memorial -&gt; biltmore pond</name>
+							<styleUrl>#inline32</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-84.1315927889047,35.55526836207835,251.7398985445801 -82.56243355952094,35.54074418451483,606.306103209476 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>IRIS -&gt; gatlinburg</name>
+							<styleUrl>#m_ylw-pushpin11</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.51826483252815,35.71070040620556,0 -83.51828007686817,35.51820478476585,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>WORMWOOD -&gt; EINSTIEN</name>
+							<styleUrl>#m_ylw-pushpin7</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-84.38332922206715,33.78450461789369,0 -84.38360522965949,35.91861410733042,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>zebulon -&gt; smokemont</name>
+							<styleUrl>#m_ylw-pushpin7</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-82.55118428706307,35.59514265765382,0 -83.29305502794051,35.59806628621502,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>atrium -&gt; highjump</name>
+							<styleUrl>#inline1</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-82.08916778688723,33.48291944724769,123.6247262950374 -82.10235075494204,35.53025189653182,396.5491931957957 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>panther top -&gt; ribcage</name>
+							<styleUrl>#inline0</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-84.0992660934764,35.06586471693351,699.0831775969201 -88.1892271222995,34.99997317582592,124.1387088968593 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>jenny -&gt; union -&gt; brasstown</name>
+							<styleUrl>#inline29</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-94.51314200675064,35.33209244899603,128.1807598581108 -83.96250796059384,34.88595673044972,585.8925853889958 -83.81094769974773,34.87432942323841,585.8925853889958 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>538 -&gt; fairveiw</name>
+							<styleUrl>#inline7</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-86.79549502510478,33.49171909005432,298.8779281316348 -82.17103050958418,33.41102084543352,140.2631722760001 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>509 -&gt; 518</name>
+							<styleUrl>#inline2</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-81.75094250485765,33.55205497645849,118.3284126420045 -82.30222823568562,33.55091994821329,81.50983477423765 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>camelback -&gt; draco</name>
+							<styleUrl>#m_ylw-pushpin</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-76.00000120863534,35.0774987446697,0 -79.00065305960658,35.14615587958807,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>fairveiw -&gt; 513</name>
+							<styleUrl>#m_ylw-pushpin</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-82.17103578929115,33.41101966384654,0 -81.84541676588879,33.40990960500769,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+					</Folder>
 				</Folder>
 				<Folder>
 					<name>non-purple/green</name>
+					<visibility>0</visibility>
 					<open>1</open>
 					<Placemark>
 						<name>brasstown/allgood</name>
+						<visibility>0</visibility>
 						<styleUrl>#inline25</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
@@ -9340,7 +9777,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<Placemark>
 							<name>allgoodInverted</name>
 							<visibility>0</visibility>
-							<styleUrl>#__managed_style_0717E39E152AE967FD1400</styleUrl>
+							<styleUrl>#__managed_style_0717E39E152AE967FD14000</styleUrl>
 							<LineString>
 								<tessellate>1</tessellate>
 								<coordinates>
@@ -9365,7 +9802,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<styleUrl>#__managed_style_0FB115F9902AE967FD5A</styleUrl>
 						<LineString>
 							<coordinates>
-								-79.94130639964064,32.8169336658511,-0.9479545443309366 -84.03960137534123,35.08586974588313,487.7587592547807 -83.31589521072169,35.48465418932704,595.0506495139208 -82.79708617246074,35.56017226426199,635.9515489209829 -82.55119646440006,35.59513896155718,676.8524483280449 -83.31589544582744,35.48465427303221,595.0494258260804 -83.17131430484237,35.53529898566998,1374.619878036101 -83.53980351110316,35.46008589819206,649.3546674852444 -83.31589562244939,35.48465386017115,595.0479239136808 
+								-79.94130639964064,32.8169336658511,-0.9479545443309366 -84.03960137534123,35.08586974588313,487.7587592547807 -83.31589521072169,35.48465418932704,595.0506495139208 -83.31588634421077,35.48465664377927,635.9515489209829 -82.55119646440006,35.59513896155718,676.8524483280449 -83.31589544582744,35.48465427303221,595.0494258260804 -83.17131430484237,35.53529898566998,1374.619878036101 -83.53980351110316,35.46008589819206,649.3546674852444 -83.31589562244939,35.48465386017115,595.0479239136808 -79.94130639964064,32.8169336658511,-0.9479545443309366 
 							</coordinates>
 						</LineString>
 					</Placemark>
@@ -9403,7 +9840,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<Placemark>
 							<name>430 KM for church</name>
 							<visibility>0</visibility>
-							<styleUrl>#inline70</styleUrl>
+							<styleUrl>#inline700</styleUrl>
 							<LineString>
 								<tessellate>1</tessellate>
 								<coordinates>
@@ -9577,7 +10014,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>34.99999991632063</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0BFADB33CA2AE967FD35</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-82.91489334756402,35.29661036454853,1638.876079850656</coordinates>
 					</Point>
@@ -9595,7 +10032,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>34.9999999999902</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0A3791EA522AE967FD71</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-84.08934581152008,34.95889799009224,551.5462296351077</coordinates>
 					</Point>
@@ -9613,7 +10050,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0BFADB33CA2AE967FD35</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-81.81138785407178,36.09704770254725,1346.200860943608</coordinates>
 					</Point>
@@ -9631,7 +10068,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0BB22233662AE967FD6F</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-81.83546170819686,36.09226035818799,1480.240319096662</coordinates>
 					</Point>
@@ -9649,7 +10086,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_3DDEC3D6812AE967FD5D</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-84.03311367350469,35.08696771552037,490.5847705139346</coordinates>
 					</Point>
@@ -9667,7 +10104,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0258CAD4E42AE967FD66</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-84.03711400416829,35.08619148342678,468.3676662360024</coordinates>
 					</Point>
@@ -9685,7 +10122,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_057B6875402AE967FD67</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-84.03700405315288,35.08538467815976,462.0238950808414</coordinates>
 					</Point>
@@ -9703,7 +10140,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0E0B180FBD2AE967FD61</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.97296205179613,34.53708499585348,402.3261901846392</coordinates>
 					</Point>
@@ -9721,7 +10158,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_33024FE6912AE967FD69</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<altitudeMode>relativeToGround</altitudeMode>
 						<coordinates>-85.79576,33.73387,0</coordinates>
@@ -9758,7 +10195,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0D397DCCB42AE967FD6B</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<altitudeMode>relativeToGround</altitudeMode>
 						<coordinates>-83.51839169556889,35.71135788341489,0</coordinates>
@@ -9778,7 +10215,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_356E5FC98D2AE967FD38</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.39156585818468,34.73850479210142,375.9332584543474</coordinates>
 					</Point>
@@ -9796,7 +10233,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_69C490612E2AE967FD38</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.98774968298997,34.52701877877674,454.7813672781534</coordinates>
 					</Point>
@@ -9814,7 +10251,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0D7BB42DCE2AE967FD65</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-82.87400228611926,35.19981941039493,880.0317119905529</coordinates>
 					</Point>
@@ -9832,7 +10269,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_36C917E09D2AE967FD61</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-82.02233631978012,33.49529998415998,49.24230012846528</coordinates>
 					</Point>
@@ -9850,7 +10287,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_6BBF5DA2B02AE967FD39</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-82.77466638436847,35.39337379975858,1622.114728468542</coordinates>
 					</Point>
@@ -9868,7 +10305,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_3FCBA0654A2AE967FD63</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-81.49978428877181,36.624288824148,1498.38955294564</coordinates>
 					</Point>
@@ -9886,7 +10323,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_32A5CBD0312AE967FD66</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-81.96217506777688,33.47762283540354,34.97898365084664</coordinates>
 					</Point>
@@ -9904,7 +10341,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_6780B027982AE967FD3A</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-84.2873520200196,34.90642356384272,472.6665764105316</coordinates>
 					</Point>
@@ -9922,7 +10359,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0BCAC53F032AE967FD6D</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.5198324347693,35.7154338781281,550.7418567887952</coordinates>
 					</Point>
@@ -9940,7 +10377,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_356E5FC98D2AE967FD38</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-1.703857852792727,53.36122518065876,166.5637398249945</coordinates>
 					</Point>
@@ -9958,7 +10395,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>34.99999999949045</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_6780B027982AE967FD3A</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-81.96004372864132,33.47665792324436,36.80296062677728</coordinates>
 					</Point>
@@ -9976,7 +10413,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0E539165F12AE967FD70</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-1.684211721427091,54.00842179741078,227.061663374202</coordinates>
 					</Point>
@@ -9994,7 +10431,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_09E9993A7F2AE967FD68</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-1.741768430229073,54.01819928487686,252.3531883983275</coordinates>
 					</Point>
@@ -10012,7 +10449,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>34.99999999827146</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_315B996F852AE967FD70</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.17126483641097,35.53527417047226,1375.235902085825</coordinates>
 					</Point>
@@ -10030,7 +10467,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_12C51CE1A12AE967FD3C</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.47713695850504,35.44868148588769,636.7656835916605</coordinates>
 					</Point>
@@ -10048,7 +10485,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_12C51CE1A12AE967FD3C</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.53979054202392,35.46008058302861,650.0587887190441</coordinates>
 					</Point>
@@ -10066,7 +10503,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_69C490612E2AE967FD38</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-79.94130633183835,32.81693340806989,-0.9094489565137053</coordinates>
 					</Point>
@@ -10084,7 +10521,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0EC1B3DA242AE967FD5D</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.31576760961137,35.48469892812327,595.4939573216509</coordinates>
 					</Point>
@@ -10102,7 +10539,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_6BBF5DA2B02AE967FD39</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.19134131529138,35.1357424268219,1563.554930187362</coordinates>
 					</Point>
@@ -10120,7 +10557,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_12C51CE1A12AE967FD3C</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-84.36331983627224,33.75226682614574,308.883372087421</coordinates>
 					</Point>
@@ -10138,7 +10575,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_06D493CDF92AE967FD63</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.98542049999999,34.5327698,442.8553641354418</coordinates>
 					</Point>
@@ -10156,7 +10593,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>absolute</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0726E43F712AE967FD5B</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<coordinates>-83.98488092682199,34.53261259675752,445.4854394948424</coordinates>
 					</Point>
@@ -10174,7 +10611,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						<altitudeMode>relativeToGround</altitudeMode>
 						<gx:fovy>35</gx:fovy>
 					</LookAt>
-					<styleUrl>#__managed_style_0C0DF3A9612AE967FD69</styleUrl>
+					<styleUrl>#__managed_style_32DB9126A12AE967FD34</styleUrl>
 					<Point>
 						<altitudeMode>relativeToGround</altitudeMode>
 						<coordinates>-82.6284797,35.1655872,0</coordinates>
@@ -10710,7 +11147,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				<Placemark>
 					<name>Line Measure</name>
 					<visibility>0</visibility>
-					<styleUrl>#inline10</styleUrl>
+					<styleUrl>#inline102</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -10721,7 +11158,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				<Placemark>
 					<name>Line Measure</name>
 					<visibility>0</visibility>
-					<styleUrl>#inline9</styleUrl>
+					<styleUrl>#inline91</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -10740,6 +11177,163 @@ Lat: 35.124917 Long: -84.2425]]></description>
 						</coordinates>
 					</LineString>
 				</Placemark>
+				<Folder>
+					<name>experiment</name>
+					<visibility>0</visibility>
+					<open>1</open>
+					<Folder>
+						<name>1</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-84.2424753201371,35.12491874029504,0 -82.75925426338874,34.08377845486438,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-84.24245108480322,35.12493863182634,0 -83.7626687742257,34.62092717930422,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-84.24243667512691,35.12490597041627,0 -83.1596272566623,34.93674885151759,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+					</Folder>
+					<Folder>
+						<name>2</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.79529661626503,35.25753344266444,0 -83.81501240158042,35.48541162987543,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.79529668383155,35.25751386925177,0 -83.76268461703766,34.62093457523659,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.7952649841742,35.25755903996435,0 -83.15964611124195,34.93675953017635,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+					</Folder>
+					<Folder>
+						<name>3</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-85.62361388058427,33.29250690055957,0 -83.81500487267643,35.48538682655158,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-85.62359880910306,33.29251531462836,0 -83.51826291896386,35.5181934211459,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-85.62359698583063,33.29250892683083,0 -83.15962480595077,34.93675069576414,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+					</Folder>
+					<Folder>
+						<name>4</name>
+						<visibility>0</visibility>
+						<open>1</open>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.33040988501102,34.5797192338495,0 -82.75924993987962,34.08378083521462,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.33040938460198,34.57972586463904,0 -75.66489773320295,35.89019856210815,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+						<Placemark>
+							<name>Untitled Path</name>
+							<visibility>0</visibility>
+							<styleUrl>#msn_open-diamond</styleUrl>
+							<LineString>
+								<tessellate>1</tessellate>
+								<coordinates>
+									-83.33040662795308,34.57971060719455,0 -83.5182734081373,35.5181795900773,0 
+								</coordinates>
+							</LineString>
+						</Placemark>
+					</Folder>
+				</Folder>
 			</Folder>
 			<Folder>
 				<name>cantGetHereFromThere</name>
@@ -10748,7 +11342,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					<name>midpoint</name>
 					<visibility>0</visibility>
 					<description>35.162395 -83.240331</description>
-					<styleUrl>#failed0</styleUrl>
+					<styleUrl>#failed04</styleUrl>
 					<Point>
 						<coordinates>-83.240331,35.162395,0</coordinates>
 					</Point>
@@ -10794,7 +11388,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					<Placemark>
 						<name>SpadesLine</name>
 						<visibility>0</visibility>
-						<styleUrl>#inline19</styleUrl>
+						<styleUrl>#inline190</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
 							<coordinates>
@@ -10816,7 +11410,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 					<Placemark>
 						<name>ClubsLine</name>
 						<visibility>0</visibility>
-						<styleUrl>#inline24</styleUrl>
+						<styleUrl>#inline240</styleUrl>
 						<LineString>
 							<tessellate>1</tessellate>
 							<coordinates>
@@ -10839,7 +11433,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				<Placemark>
 					<name>spades-North-BrasstownBaldGraff</name>
 					<visibility>0</visibility>
-					<styleUrl>#inline3</styleUrl>
+					<styleUrl>#inline31</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -10882,13 +11476,84 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				</Placemark>
 			</Folder>
 			<Folder>
+				<name>pause</name>
+				<open>1</open>
+				<Placemark>
+					<name>fontana dam</name>
+					<LookAt>
+						<longitude>-83.80389493591157</longitude>
+						<latitude>35.45487946263353</latitude>
+						<altitude>0</altitude>
+						<heading>0.4887987354098497</heading>
+						<tilt>6.449210123153265</tilt>
+						<range>3039.943583745637</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin8</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-83.8051892936316,35.45253659435816,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>jocassee</name>
+					<Camera>
+						<longitude>-82.94633080982123</longitude>
+						<latitude>34.98657005526281</latitude>
+						<altitude>9264.549026407398</altitude>
+						<heading>21.36292697248113</heading>
+						<tilt>0.01264936938793282</tilt>
+						<roll>20.74068028111786</roll>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</Camera>
+					<styleUrl>#m_ylw-pushpin8</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-82.9398830691276,34.97646062701686,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>cherokee lake dam</name>
+					<LookAt>
+						<longitude>-84.16735349957438</longitude>
+						<latitude>35.06788752017486</latitude>
+						<altitude>0</altitude>
+						<heading>-1.040602520410069</heading>
+						<tilt>0</tilt>
+						<range>2234.253439725306</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin8</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-84.16644650063587,35.06871026383186,0</coordinates>
+					</Point>
+				</Placemark>
+				<Placemark>
+					<name>bell mountain</name>
+					<LookAt>
+						<longitude>-83.7296342346263</longitude>
+						<latitude>34.96021244326347</latitude>
+						<altitude>0</altitude>
+						<heading>4.98793013073132</heading>
+						<tilt>8.730971205896843</tilt>
+						<range>1547.291579539078</range>
+						<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+					</LookAt>
+					<styleUrl>#m_ylw-pushpin8</styleUrl>
+					<Point>
+						<gx:drawOrder>1</gx:drawOrder>
+						<coordinates>-83.72916634706409,34.95936249105022,0</coordinates>
+					</Point>
+				</Placemark>
+			</Folder>
+			<Folder>
 				<name>Tris7Dots</name>
 				<visibility>0</visibility>
-				<open>1</open>
 				<Placemark>
 					<name>1</name>
 					<visibility>0</visibility>
-					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<styleUrl>#m_ylw-pushpin1</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -10899,7 +11564,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				<Placemark>
 					<name>2</name>
 					<visibility>0</visibility>
-					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<styleUrl>#m_ylw-pushpin1</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -10910,7 +11575,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				<Placemark>
 					<name>3</name>
 					<visibility>0</visibility>
-					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<styleUrl>#m_ylw-pushpin1</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
@@ -10921,7 +11586,7 @@ Lat: 35.124917 Long: -84.2425]]></description>
 				<Placemark>
 					<name>4</name>
 					<visibility>0</visibility>
-					<styleUrl>#m_ylw-pushpin</styleUrl>
+					<styleUrl>#m_ylw-pushpin1</styleUrl>
 					<LineString>
 						<tessellate>1</tessellate>
 						<coordinates>
